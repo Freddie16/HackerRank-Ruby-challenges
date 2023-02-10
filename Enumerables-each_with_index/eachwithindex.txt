@@ -1,0 +1,12 @@
+=Begin
+1.BDD
+-Program should take in an object array and skip integer.
+-Program should skip the number of elements.
+-Program should return the rest of the elements in the array
+2.Pseudo-code
+start
+-Receive an input of the array and skip.
+-Ignore the (skip indices) in the array.
+-Print the array showing elements indices.
+-Output the array without the skipped elements.
+end

@@ -1,0 +1,12 @@
+=Begin
+1.BDD
+-Write a method that helps in temperature conversion.
+-The method will receive a number as an input,a named parameter and an optional parameter on the output.
+-It should return the converted temperature between celsius,Kelvin and fahrenheit scales.
+2.Pseudo-code
+start
+-Create a method(convert_temp) taking two parameters(n and opt).
+-Use case condition to iterate over statements that give different temperatures.
+-Use when to give types to the case statement.
+-Use another case condition for the output scale.
+end

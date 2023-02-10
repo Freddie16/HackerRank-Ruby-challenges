@@ -1,0 +1,10 @@
+=Begin
+1.BDD =>
+-Use the Case conditional statement.
+-Use when to give types to the conditions.
+-Use puts to print the case.
+-Use else to show the negative in the conditional statement.
+2.Pseudo-code
+-Create a method(identify_class) to write your case control structure.
+-Create a case control structure.
+-Use when to occupy strings with the conditions.

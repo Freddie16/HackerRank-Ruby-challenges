@@ -1,0 +1,12 @@
+=Begin
+1.BDD
+-Create an object called colors.
+-Define the object's own each method.
+-Iterate over items and return an array containing the values.
+2.Pseudo-code
+start
+-Create a method(iterate_colors) with colors a parameter.
+-Create an empty array an name it values.
+-Use each to iterate over the colors.
+-Shovel a color into the array of colors.
+end

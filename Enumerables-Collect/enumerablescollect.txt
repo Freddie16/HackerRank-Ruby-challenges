@@ -1,0 +1,10 @@
+=Begin
+1.BDD
+-Write a method which takes an array of strings and decodes its elements.
+-The array should contain final messages decoded by ROT13.
+2.Pseudo-code
+start
+-Write a method ROT13 with an argument of (secret_messages).
+-Use map with the parameter(secret_messages) taking a variable(message).
+-Use the inbuilt method tr to trace the return with a code.
+end

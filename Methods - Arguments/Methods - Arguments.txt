@@ -1,0 +1,10 @@
+=Begin
+1.BDD
+-Invoke a method from different portions of code with a variation in only one of the arguments.
+-Ensure all other arguments remain constant.
+-Assign default values to the variables as to avoid passing a value for every argument,decreasing the chance of error.
+2.Pseudo-code
+start
+-Create a method(take) passing two parameter of array and n=1.
+-Use the drop function with the array parameter.
+end

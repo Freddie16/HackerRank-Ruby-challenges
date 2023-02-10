@@ -1,0 +1,14 @@
+=Begin
+1.BDD
+-Group students into two categories corresponding to their marks obtained in the test.
+-The list contains students in a hash with student name as key and marks as value.
+-Use pass-marks as a parameter.
+-The method must return a Hash containing an array of students who passed and those who failed.
+-If the key is empty it should not return a key.
+2.Pseudo-code
+start
+-The method should take in two parameters.
+-parameters taken are that of an array and an integer.
+-The method removes the first'n' elements from the given array and returns the rest of the elements.
+-If the 'n' is not provided,it takes 'n=1' by default.
+end

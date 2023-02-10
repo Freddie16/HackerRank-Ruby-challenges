@@ -1,0 +1,10 @@
+=Begin
+1.BDD
+-Create a method and iterate over a collection and accumulate the value of an operation on elements in a base value.
+-Use an operator and return the base value 
+-Use the reduce function to run this scenario.
+2.Pseudo-code
+start
+-Create a method(sum_terms) and take n as a parameter.
+-Use reduce classified as inject to iterate over the collection till it returns a base value.
+end
